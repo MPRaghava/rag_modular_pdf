@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+nltk
+sentence-transformers
+scikit-learn
+langchain
+langchain-community
+langchain-groq
+streamlit-extras
+python-dotenv
